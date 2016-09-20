@@ -1,0 +1,2 @@
+python3 /usr/share/java-utils/mvn_alias.py "commons-validator:commons-validator" "org.apache.commons:commons-validator"
+python3 /usr/share/java-utils/mvn_file.py :commons-validator commons-validator apache-commons-validator
